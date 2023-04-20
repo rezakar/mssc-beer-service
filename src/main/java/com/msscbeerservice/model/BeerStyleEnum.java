@@ -1,4 +1,5 @@
 package com.msscbeerservice.model;
 
-public class BeerStyleEnum {
+public enum BeerStyleEnum {
+    IPA, PALE_ALE, ALE
 }
